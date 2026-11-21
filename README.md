@@ -1,6 +1,4 @@
-### Hi, I'm Arion 👋
-
-I build AI tools and the infrastructure that runs them.
+### 
 
 <table>
   <tr>
